@@ -1,0 +1,4 @@
+
+*O mapa do labirinto é lido de um arquivo texto. O labirinto é representado por uma matriz, cujo número de linhas e colunas são definidas na primeira linha do arquivo. O formato do labirinto é então representado pelas linhas remanescentes do arquivo. Em cada linha, o símbolo 'x' é utilizado para representar um caminho válido e o símbolo '#' para representar paredes. A entrada do labirinto representada pela letra ‘e’ e a saída pela letra ‘s’. Um exemplo de arquivo de entrada encontra-se anexo a este documento.
+
+* O labirinto é carregado em memória e, para cada nova posição explorada no labirinto, o labirinto é impresso, assim como o estado da exploração. O símbolo ‘-‘ representa posições já exploradas, e o símbolo ‘o’ a posição corrente.
